@@ -1,0 +1,213 @@
+html{
+    background: linear-gradient(0deg, rgba(149,0,255,1) 0%, rgba(0,0,0,1) 100%);
+}
+.shorticon{
+    border-radius: 50%;
+}
+.local {
+    background-image: url(https://i.pinimg.com/564x/8d/be/de/8dbede68b4caff2a335ff3cdfbacf4e8.jpg);
+    display: flex;
+    border-radius: 20px ;
+    justify-content: center;
+    padding: 50px;
+}
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.logo img{
+    border-radius: 50%;
+    border: 5px solid white;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 130px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+}
+a {
+    display: column;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.local2{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 100%);;
+    width: 650px;
+    height: 550px;
+    border-radius: 10%;
+    display: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 50px;
+}
+.chara{
+    display: flex;
+    justify-content: center;
+}
+.chara img{
+    border-radius: 50%;
+    border: 5px solid salmon;
+}
+.text1{
+    display: column;
+    padding: 0px 200px;
+    align-items: center;
+    justify-content: space-around;
+    color: white
+}
+.knight{
+    display: flex;
+    justify-content: center;
+}
+.knight img {
+    border-radius: 20%;
+}
+.container2 {
+    background-image: url(https://i.pinimg.com/564x/3d/91/1e/3d911edb3c3b52e04f6c08b95b3b97ce.jpg);
+    width: 650px;
+    height: 650px;
+    border-radius: 10%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px 100px;
+}
+.text2{
+    color: white;
+}
+.container3 {
+    display: flex;
+    justify-content: center;
+}
+.position{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.music{
+    background-image: url(https://i.pinimg.com/564x/67/0c/1a/670c1aed9ff8765e4572c11b091bd073.jpg);
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 400px;
+    border-radius: 10%;
+    color: rgb(0, 2, 141);
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.back{
+    background-image: url(https://i.pinimg.com/564x/11/84/50/118450b9a7dde61adcff94c3d082e232.jpg);
+    border-radius: 20%;
+}
+.tittle1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(178, 96, 255);
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+}
+.first img {
+    border-radius: 10%;
+}
+.text3{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.tittle2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 0, 0);
+}
+.second{
+    display: flex;
+    justify-content: space-around;
+}
+.second img {
+    border-radius: 10%;
+}
+.container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.soul{
+    background-image: url(https://i.pinimg.com/564x/07/0f/16/070f16a91ce522bf39c5218fd9626957.jpg);
+    width: 800px;
+    height: 300px;
+    border-radius: 10%;
+    display: column;
+    justify-content: center;
+}
+.souls {
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.colors{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.red{
+    color: red;
+}
+.text4 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.find{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 30px;
+    color: white;
+}
+.pinterest{
+    color: white;
+    background: linear-gradient(0deg, rgba(80,19,19,1) 0%, rgba(255,25,0,1) 100%);
+    padding: 10px;
+    border-radius: 20%;
+}
+.cloud{
+    color: white;
+    background: linear-gradient(0deg, rgba(255,162,0,1) 0%, rgba(255,188,121,1) 100%);
+    padding: 10px;
+    border-radius: 20%;
+}
+.spotify{
+    color: white;
+    background: linear-gradient(0deg, rgba(35,148,84,1) 0%, rgba(0,255,4,1) 100%);
+    padding: 10px;
+    border-radius: 20%;
+}
+.tumblr{
+    color: white;
+    background: linear-gradient(0deg, rgba(5,1,255,1) 0%, rgba(26,6,180,1) 100%);
+    padding: 10px;
+    border-radius: 20%;
+}
+.github{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 20%;
+}
